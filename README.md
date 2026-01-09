@@ -69,7 +69,7 @@ student-performance-prediction-ml/
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/student-performance-prediction-ml.git
-
+```
 2. Install dependencies:
 pip install -r requirements.txt
 
